@@ -1,0 +1,3 @@
+[submodule "ezbids_docker"]
+	path = ezbids_docker
+	url = git@github.com:openneuropet/ezbids_docker.git
